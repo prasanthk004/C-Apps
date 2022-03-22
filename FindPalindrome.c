@@ -30,7 +30,7 @@ int main()
 }
 
 
-
+/* Function to return Reversed Number */
  int revnum(int n)
  {
  
